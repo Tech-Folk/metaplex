@@ -1,0 +1,76 @@
+{
+    "name": "Tech Folk 2240",
+    "symbol": "TF",
+    "description": "Tech Folk is an NFT collection and Startup Simulation Game on the Solana Blockchain",
+    "seller_fee_basis_points": 500,
+    "image": "2240.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "rare"
+        },
+        {
+            "trait_type": "skin",
+            "value": "black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "green"
+        },
+        {
+            "trait_type": "nose",
+            "value": "captain h super rare"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "horseshoe brown"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "silicon valley"
+        },
+        {
+            "trait_type": "hair-hat",
+            "value": "captain rare"
+        },
+        {
+            "trait_type": "glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Core Skill",
+            "value": "Community Manager"
+        },
+        {
+            "trait_type": "Title",
+            "value": "Social media manager"
+        },
+        {
+            "trait_type": "Vibe",
+            "value": "Futurist"
+        },
+        {
+            "trait_type": "Vice",
+            "value": "Runestone of scrumagileon"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2240.png",
+                "type": "image.png"
+            }
+        ],
+        "collection": {
+            "name": "Tech Folk",
+            "family": "Tech Folk"
+        },
+        "category": "image",
+        "creators": [
+            {
+                "address": "CxvfEmGzPbvKaV9gknoWaaMcdsTyQhAjG6poP1Lz1gSm",
+                "share": 100
+            }
+        ]
+    }
+}
