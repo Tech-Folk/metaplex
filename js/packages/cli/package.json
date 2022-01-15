@@ -64,6 +64,7 @@
     "merge-images": "^2.0.0",
     "mime": "^3.0.0",
     "node-fetch": "^2.6.1",
+    "ts-node": "^10.4.0",
     "weighted": "^0.3.0"
   },
   "devDependencies": {
